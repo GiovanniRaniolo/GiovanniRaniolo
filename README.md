@@ -19,7 +19,7 @@ Here are a few projects I've been working on recently:
 2. **CSS Deep Dive**: A project focusing on the box model, responsive design, and dynamic proportions using units like em, rem, and media queries.
 3. **JavaScript To-Do List**: A fun project with filters, categories, and other typical to-do list features, developed with my team under the guidance of @Emanuele Guerini.
 
-![Screenshot](https://imgur.com/a/RBvSMKL)
+![Screenshot](//imgur.com/a/RBvSMKL)
 
 Feel free to check out my repositories and connect with me!
 
