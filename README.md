@@ -22,6 +22,4 @@ I'm Giovanni Raniolo, a passionate Web Developer with a background in musicology
 
 ## Let's Connect
 
-Feel free to check out my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/gianniraniolo/). I'm always excited to meet new people and explore collaborative opportunities!` 
-
-Questa struttura ti permette di presentare le tue competenze e progetti in modo chiaro e visivamente accattivante, migliorando l'appeal del tuo profilo GitHub.
+Feel free to check out my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/gianniraniolo/). I'm always excited to meet new people and explore collaborative opportunities!
