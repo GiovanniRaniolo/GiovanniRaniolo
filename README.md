@@ -12,7 +12,7 @@ I'm Giovanni Raniolo, a passionate Web Developer with a background in musicology
    
    📫 **Contact**: Reach out to me via [LinkedIn](https://www.linkedin.com/in/gianniraniolo/).  
    
-   ⚡ **Fun Fact**: I created my first program on a Commodore 64 when I was just 9 years old, and my passion for technology has only grown since then!
+   ⚡ **Fun Fact**: I created my first program on a C64 when I was just 9 years old, and my passion for technology has only grown since then!
 
 ## Skills
 
