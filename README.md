@@ -4,7 +4,7 @@ I'm Giovanni Raniolo, a passionate Web Developer with a background in musicology
 
 ## About Me
 
- - 🌟 **Interests**: Web development, music production, blockchain technology, and NFTs.  
+   🌟 **Interests**: Web development, music production, blockchain technology, and NFTs.  
    
    🌱 **Learning**: Full-stack web development.  
    
