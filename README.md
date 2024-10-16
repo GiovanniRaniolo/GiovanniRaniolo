@@ -18,8 +18,8 @@ I'm Giovanni Raniolo, a passionate Web Developer with a background in musicology
 
 <div align="center">
 
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)  | ![React](https://img.icons8.com/color/48/000000/react-native.png)  | ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) | ![Tailwind CSS](https://icons8.com/icon/WoopfRcDj3RF/tailwind-css) | ![Sass](https://icons8.com/icon/qsQZWvMuX4ad/sass)  |
-| ![CSS3](https://img.icons8.com/color/48/000000/css3.png)  | ![Git](https://img.icons8.com/color/54/000000/git.png)  | ![Firebase](https://icons8.com/icon/87330/google-firebase-console) | ![MongoDB](https://icons8.com/icon/bosfpvRzNOG8/mongo-db) |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)  | ![React](https://img.icons8.com/color/48/000000/react-native.png)  | ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) | ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) | ![Sass](https://img.icons8.com/color/48/000000/sass.png)  |
+| ![CSS3](https://img.icons8.com/color/48/000000/css3.png)  | ![Git](https://img.icons8.com/color/54/000000/git.png)  | ![Firebase](https://img.icons8.com/color/48/000000/google-firebase-console.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongo-db.png) |
 
 </div>
 
