@@ -20,7 +20,7 @@ I'm Giovanni Raniolo, a passionate Web Developer with a background in musicology
 
 | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) | ![Tailwind CSS](https://img.icons8.com/?size=48&id=WoopfRcDj3RF&format=png&color=000000) | ![Sass](https://img.icons8.com/color/48/000000/sass.png) |
 |-----------------------------------------|-----------------------------------------------|-------------------------------------------|-------------------------------------------|--------------------------------------|--------------------------------------------------------|
-| ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | ![Git](https://img.icons8.com/color/54/000000/git.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | ![DigitalOcean](https://img.icons8.com/color/48/000000/digital-ocean.png) | ![Vultr](https://img.icons8.com/color/48/000000/vultr.png) |
+| ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | ![Git](https://img.icons8.com/color/54/000000/git.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | <img src="https://w7.pngwing.com/pngs/410/265/png-transparent-digitalocean-icon-hd-logo.png" width="48" alt="DigitalOcean"/> | <img src="https://seeklogo.com/images/V/vultr-logo-B513C27910-seeklogo.com.png" width="48" alt="Vultr"/> |
 
 </div>
 
